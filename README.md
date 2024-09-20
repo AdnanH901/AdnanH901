@@ -27,7 +27,7 @@
 >>>
 ---
 
-### 💻 About Me :
+### 💻 About Me
 
 - 🎓 I am a recent mathematics graduate from Durham University.
 
@@ -40,7 +40,7 @@
 - 🖥️ Check out my website: [![Portfolio Website Badge](https://img.shields.io/badge/Portfolio%20Website-navy?style=flat)](https://www.linkedin.com/in/ah901/)
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 - Excel
 - MySQL
 - Python
@@ -49,7 +49,7 @@
 - Google slides
 ---
 
-### 🔭 Upcoming Projects:
+### 🔭 Upcoming Projects
 
 My next project will be focused on cleaning and analysing a dataset in Python. Then using/ learning some more complex visualisation methods on Tableau to truely express some ground breaking insights. I have already mastered SQL and I am curious and eager to explore and learn the Pandas library properly with this project. I believe exploration of this dataset would do the trick!
 
