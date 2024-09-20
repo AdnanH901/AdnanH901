@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/ah901/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/ah901/">
+    <a href="https://adnanh901.github.io/">
       <img src="https://img.shields.io/badge/Portfolio%20Website-navy?style=for-the-badge" alt="Portfolio Badge"/>
     </a>
   </div>
@@ -31,13 +31,13 @@
 
 - 🎓 I am a recent mathematics graduate from Durham University.
 
-- 📊 I absolutley love the vast world of data and I am looking to work as a Data Analyst. 
+- 📊 I love the vast world of data and am looking to work as a Data Analyst. 
 
 - ⚡ In my free time, I love to work on projects that I am passionate about or give me a challenge.
 
 - :mailbox: Check out my LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Adnan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ah901/)
 
-- 🖥️ Check out my website: [![Portfolio Website Badge](https://img.shields.io/badge/Portfolio%20Website-navy?style=flat)](https://www.linkedin.com/in/ah901/)
+- 🖥️ Check out my website: [![Portfolio Website Badge](https://img.shields.io/badge/Portfolio%20Website-navy?style=flat)](https://adnanh901.github.io/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools
@@ -51,7 +51,7 @@
 
 ### 🔭 Upcoming Projects
 
-My next project will be focused on cleaning and analysing a dataset in Python. Then using/ learning some more complex visualisation methods on Tableau to truely express some ground breaking insights. I have already mastered SQL and I am curious and eager to explore and learn the Pandas library properly with this project. I believe exploration of this dataset would do the trick!
+My next project will be focused on cleaning and analysing a dataset in Python. Ι am using/ learning some more complex visualisation methods on Tableau to truly express some groundbreaking insights. I have mastered SQL and I am curious and eager to explore and learn the Pandas library properly with this project. I believe the exploration of this dataset would do the trick!
 
 https://www.kaggle.com/datasets/parulpandey/2020-it-salary-survey-for-eu-region
 
