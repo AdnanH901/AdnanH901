@@ -53,7 +53,7 @@
 
 My next project will be focused on cleaning and analysing a dataset in Python. Ι am using/ learning some more complex visualisation methods on Tableau to truly express some groundbreaking insights. I have mastered SQL and I am curious and eager to explore and learn the Pandas library properly with this project. I believe the exploration of this dataset would do the trick!
 
-https://www.kaggle.com/datasets/parulpandey/2020-it-salary-survey-for-eu-region
+https://www.kaggle.com/datasets/thomaschow0716/uk-student-accomodation
 
 ---
 
