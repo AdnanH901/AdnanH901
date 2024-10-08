@@ -41,7 +41,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools
-- Excel
+- Microsoft Excel
 - MySQL
 - Python
 - Tableau
