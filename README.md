@@ -31,7 +31,7 @@
 
 - 🎓 I am a recent mathematics graduate from Durham University.
 
-- 📊 I love the vast world of data and am looking to work as a Data Analyst. 
+- 📊 I love the vast world of data and I am looking to work as a Data Analyst. 
 
 - ⚡ In my free time, I love to work on projects that I am passionate about or give me a challenge.
 
@@ -46,12 +46,12 @@
 - Python
 - Tableau
 - Canva
-- Google slides
+- Google Slides
 ---
 
 ### 🔭 Upcoming Projects
 
-My next project will be focused on cleaning and analysing a dataset in Python. Ι am using/ learning some more complex visualisation methods on Tableau to truly express some groundbreaking insights. I have mastered SQL and I am curious and eager to explore and learn the Pandas library properly with this project. I believe the exploration of this dataset would do the trick!
+My next project will be focused on cleaning and analysing a dataset in Python. Ι am using/ learning some more complex visualisation methods on Tableau to express some groundbreaking insights truly. I have mastered SQL and am curious and eager to explore and discover the Pandas library properly with this project. I believe the exploration of this dataset would do the trick!
 
 https://www.kaggle.com/datasets/thomaschow0716/uk-student-accomodation
 
