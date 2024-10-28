@@ -45,7 +45,6 @@
 - MySQL
 - Python
 - Tableau
-- Canva
 - Google Slides
 ---
 
