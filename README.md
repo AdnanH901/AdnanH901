@@ -50,10 +50,9 @@
 
 ### 🔭 Upcoming Projects
 
-My next project will be focused on cleaning and analysing a dataset in Python. Ι am using/ learning some more complex visualisation methods on Tableau to express some groundbreaking insights truly. I have mastered SQL and am curious and eager to explore and discover the Pandas library properly with this project. I believe the exploration of this dataset would do the trick!
+My next project will be developing an interactive dashboard in Python that delivers key insights and answers business-relevant questions for Airbnb.
 
-https://www.kaggle.com/datasets/thomaschow0716/uk-student-accomodation
-
+[Airbnb](https://insideairbnb.com/)
 ---
 
 ### References
