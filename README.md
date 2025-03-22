@@ -42,7 +42,9 @@
 
 ### :hammer_and_wrench: Languages and Tools
 - Microsoft Excel
+- Google Sheets
 - MySQL
+- PostgreSQL
 - Python
 - Tableau
 - Google Slides
