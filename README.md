@@ -49,7 +49,7 @@
 - Tableau
 - Google Slides
 ---
-
+<!---
 ### 🔭 Upcoming Projects
 
 My next project will be developing an interactive dashboard in Python that delivers key insights and answers business-relevant questions for Airbnb.
@@ -63,7 +63,7 @@ Laptop image -> https://pixabay.com/photos/desk-laptop-notebook-pen-workspace-59
 
 Fluctating GIF by **Joe Ski** -> https://www.behance.net/gallery/19298855/Animated-Graph/modules/130427555
 
-<!---
+
 AdnanH901/AdnanH901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
