@@ -52,9 +52,10 @@
 <!---
 ### 🔭 Upcoming Projects
 
-My next project will be developing an interactive dashboard in Python that delivers key insights and answers business-relevant questions for Airbnb.
-
-[Airbnb](https://insideairbnb.com/)
+I am currently in the process of creating an analytics website for a marketing company using Python. The point of this website is to enable this company to leverage data to:
+- Improve their overall business and employee success.
+- Show who the best salespeople are based on specific axioms.
+- Assist leaders in their recruitment processes.
 ---
 
 ### References
